@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36188293829",
+    "project_id": "cost-management-aae6e",
+    "storage_bucket": "cost-management-aae6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36188293829:android:5316207b7bb7b208337eac",
+        "android_client_info": {
+          "package_name": "com.example.costmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xBSppQZP4gjbLy6b0qi7avFDk8r0Y8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cost Management</string>
+    <string name="name">Name</string>
+    <string name="cost">Cost (BDT)</string>
+    <string name="submit">Submit</string>
+    <string name="view_report">View Report</string>
+</resources>
